@@ -69,7 +69,7 @@ def usage():
             Ctrl -      : zoom out by 1%
             Alt +       : zoom in by 25%
             Alt -       : zoom out by 25%
-            Del         : change bewteen landscape and portrait orientation
+            Del         : change between landscape and portrait orientation
             Home        : move forward in the list of the preset side ratios 
             End         : move backward in the list of the preset side ratios 
             Enter       : crop the selected image
