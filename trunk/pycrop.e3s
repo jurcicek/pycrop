@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Session SYSTEM "Session-3.6.dtd">
+<!-- eric3 session file for project pycrop -->
+<!-- This file was generated automatically, do not edit. -->
+<!-- Saved: 2005-09-16, 21:41:20 -->
+<Session version="3.6">
+  <Filenames>
+    <Filename cline="36" cindex="8">/home/filip/cvs-skola/Private/Filip/pycrop/pycrop.py</Filename>
+    <Filename cline="21" cindex="0">/home/filip/cvs-skola/Private/Filip/pycrop/mainframe.py</Filename>
+    <Filename cline="215" cindex="67">/home/filip/cvs-skola/Private/Filip/pycrop/imagePanel.py</Filename>
+  </Filenames>
+  <ActiveWindow cline="215" cindex="67">/home/filip/cvs-skola/Private/Filip/pycrop/imagePanel.py</ActiveWindow>
+  <Breakpoints>
+  </Breakpoints>
+  <DebugInfo>
+    <CommandLine></CommandLine>
+    <WorkingDirectory></WorkingDirectory>
+    <Environment></Environment>
+    <ReportExceptions value="1" />
+    <Exceptions>
+    </Exceptions>
+    <TracePython value="0" />
+    <CovexcPattern></CovexcPattern>
+  </DebugInfo>
+  <Bookmarks>
+  </Bookmarks>
+</Session>

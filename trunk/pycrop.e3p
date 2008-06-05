@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-3.7.dtd">
+<!-- Project file for project pycrop -->
+<!-- Saved: 2005-09-09, 17:33:13 -->
+<!-- Copyright (C) 2005 Filip Jurcicek, filip.jurcciek@gmail.com -->
+<Project version="3.7">
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <UIType>Other</UIType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author>Filip Jurcicek</Author>
+  <Email>filip.jurcciek@gmail.com</Email>
+  <Sources>
+    <Source>
+      <Name>pycrop.py</Name>
+    </Source>
+    <Source>
+      <Name>mainframe.py</Name>
+    </Source>
+    <Source>
+      <Name>imagePanel.py</Name>
+    </Source>
+  </Sources>
+  <Forms>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <MainScript>
+    <Name>pycrop.py</Name>
+  </MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+</Project>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.0.dtd">
+<!-- eric4 project file for project pycrop -->
+<!-- Saved: 2008-06-04, 16:46:11 -->
+<!-- Copyright (C) 2008 Filip Jurcicek, filip.jurcciek@gmail.com -->
+<Project version="4.0">
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <UIType>Other</UIType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author>Filip Jurcicek</Author>
+  <Email>filip.jurcciek@gmail.com</Email>
+  <Sources>
+    <Source>
+      <Name>pycrop.py</Name>
+    </Source>
+    <Source>
+      <Name>mainframe.py</Name>
+    </Source>
+    <Source>
+      <Name>imagePanel.py</Name>
+    </Source>
+  </Sources>
+  <Forms>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <MainScript>
+    <Name>pycrop.py</Name>
+  </MainScript>
+  <Vcs>
+    <VcsType>CVS</VcsType>
+    <VcsOptions>
+      <dict>
+        <key>
+          <string>status</string>
+        </key>
+        <value>
+          <list>
+            <string>-v</string>
+          </list>
+        </value>
+        <key>
+          <string>log</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>global</string>
+        </key>
+        <value>
+          <list>
+            <string>-f</string>
+            <string>-z3</string>
+          </list>
+        </value>
+        <key>
+          <string>update</string>
+        </key>
+        <value>
+          <list>
+            <string>-dP</string>
+          </list>
+        </value>
+        <key>
+          <string>remove</string>
+        </key>
+        <value>
+          <list>
+            <string>-f</string>
+          </list>
+        </value>
+        <key>
+          <string>add</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>tag</string>
+        </key>
+        <value>
+          <list>
+            <string>-c</string>
+          </list>
+        </value>
+        <key>
+          <string>export</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>commit</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>diff</string>
+        </key>
+        <value>
+          <list>
+            <string>-u3</string>
+            <string>-p</string>
+          </list>
+        </value>
+        <key>
+          <string>checkout</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>history</string>
+        </key>
+        <value>
+          <list>
+            <string>-e</string>
+            <string>-a</string>
+          </list>
+        </value>
+      </dict>
+    </VcsOptions>
+    <VcsOtherData>
+      <dict>
+      </dict>
+    </VcsOtherData>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.ui" type="FORMS" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES" />
+  </FiletypeAssociations>
+</Project>
