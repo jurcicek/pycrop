@@ -1,0 +1,14 @@
+*.aux
+*.ps
+*.dvi
+*.toc
+*.bbl
+*.blg
+*.log
+*.bak
+*.pyc
+*.e3s
+*.e3t
+*.html
+*.crop.*
+*.old.*
